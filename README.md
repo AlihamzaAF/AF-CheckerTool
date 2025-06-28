@@ -23,11 +23,12 @@ It scrapes **public HTTPS proxies**, checks your **original & proxy-based IP**, 
 ## 📦 Installation (Termux)
 
 ```bash
-pkg update && pkg upgrade
-pkg install git python -y
-git clone https://github.com/AliHamzaAF/AF-CheckerTool.git
-cd AF-CheckerTool 
-pip install -r requirements.txt
+pkg update && pkg upgrade -y
+pkg install git python xdg-utils -y
+git clone https://github.com/AlihamzaAF/AF-CheckerTool.git
+cd AF-CheckerTool
+pip install requests beautifulsoup4
+python af_tool.py
 ```
 
 ---
@@ -50,15 +51,6 @@ From there, follow the menu:
 
 ---
 
-## 📂 File Structure
-
-```bash
-AF-BypassProxy/
-├── af_tool.py           # Main Tool Script
-├── proxies.txt          # Auto-generated proxy list
-├── requirements.txt     # Python dependencies
-├── README.md            # This documentation
-```
 
 ---
 
