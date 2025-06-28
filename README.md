@@ -18,14 +18,6 @@ It scrapes **public HTTPS proxies**, checks your **original & proxy-based IP**, 
 - 👨‍💻 Developer credit & AF branding
 
 ---
-
-## 📸 Screenshots (optional)
-_Add your screenshots here using GitHub image links if needed_
-```
-[Upload image to GitHub or imgur and paste like:]
-![screenshot](https://example.com/image1.png)
-```
-
 ---
 
 ## 📦 Installation (Termux)
@@ -74,9 +66,9 @@ AF-BypassProxy/
 
 | Platform        | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
-| 📲 Telegram     | [https://t.me/AliHamzaAF](https://t.me/AliHamzaAF)                  |
+| 📲 Telegram     | [https://t.me/AFhunterslovehacks](https://t.me/AFhunterslovehacks)                  |
 | 🎥 YouTube      | [https://www.youtube.com/@AliHamzaAF](https://www.youtube.com/@AliHamzaAF) |
-| 💬 WhatsApp     | [https://whatsapp.com/channel/0029VaCJ5bX0z6r3XAH9Gn](https://whatsapp.com/channel/0029VaCJ5bX0z6r3XAH9Gn) |
+| 💬 WhatsApp     | [https://whatsapp.com/channel/0029VaU5UfBBVJl2sqYwbJ1t](https://whatsapp.com/channel/0029VaU5UfBBVJl2sqYwbJ1t) |
 
 ---
 
